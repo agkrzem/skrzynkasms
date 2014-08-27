@@ -1,0 +1,4 @@
+skrzynkasms
+===========
+
+projekt1
